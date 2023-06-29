@@ -74,7 +74,7 @@ For a full ping example, see
 ## Installation
 
 ```
-go get -u github.com/prometheus-community/pro-bing
+go get -u github.com/zey1996/pro-bing
 ```
 
 To install the native Go ping executable:
